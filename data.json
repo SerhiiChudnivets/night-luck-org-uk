@@ -94,8 +94,8 @@
     "alt": "nightluck logo"
   },
   "main_background_img": {
-    "url": "/uploads/ee218a0fadcbc5b846036fd02e4c8424.webp",
-    "alt": "nightluck baner"
+    "url": "/uploads/9b465bac99428e1c04d1c2dfb71d8e47.webp",
+    "alt": "nightluck casino"
   },
   "header_menu": [
     {
@@ -278,8 +278,8 @@
       "question": "Are my transactions in British Pounds at Nightluck Casino?"
     }
   ],
-  "_generated_at": "2026-09-08T13:06:36.904Z",
+  "_generated_at": "2026-09-08T13:07:18.615Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-08T13:06:37.452Z",
-  "_deploy_trigger": "4s8qh"
+  "_last_deploy": "2026-09-08T13:07:19.256Z",
+  "_deploy_trigger": "khy4cr"
 }
