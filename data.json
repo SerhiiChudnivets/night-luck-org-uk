@@ -78,7 +78,7 @@
   "subdomains": null,
   "accent_color": "#d4af37",
   "main_background": "#004526",
-  "secondary_background": "#042F1E",
+  "secondary_background": "#092F1C",
   "button_background": "#E5B576",
   "button_text_color": "#121212",
   "text_color": "#CCDBD5",
@@ -278,8 +278,8 @@
       "question": "Are my transactions in British Pounds at Nightluck Casino?"
     }
   ],
-  "_generated_at": "2026-09-08T13:03:42.487Z",
+  "_generated_at": "2026-09-08T13:06:36.904Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-08T13:03:43.238Z",
-  "_deploy_trigger": "jlqyki"
+  "_last_deploy": "2026-09-08T13:06:37.452Z",
+  "_deploy_trigger": "4s8qh"
 }
