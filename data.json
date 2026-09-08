@@ -1,7 +1,7 @@
 {
   "name": "night-luck.org.uk",
   "site_name": "Nightluck Casino – Games & Exclusive Bonuses",
-  "html_head": "",
+  "html_head": "<link rel=\"canonical\" href=\"https://night-luck.org.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://night-luck.org.uk/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://night-luck.org.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"title\">\n<meta property=\"og:description\" content=\"Explore Nightluck Casino in the UK. Learn about our 5,000+ online slots, live dealer tables, fast GBP deposit and withdrawal options, mobile play.\">\n<meta property=\"og:url\" content=\"night-luck.org.uk/\">\n<meta property=\"og:site_name\" content=\"Nightluck Casino\">\n<meta property=\"og:image\" content=\"https://night-luck.org.uk//uploads/9b465bac99428e1c04d1c2dfb71d8e47.webp\">",
   "url": "night-luck.org.uk",
   "template": "tupchiy",
   "language_code": "en",
@@ -57,7 +57,7 @@
       }
     ]
   },
-  "seo_description": "Explore Nightluck Casino in the UK. Learn about our 5,000+ online slots, live dealer tables, fast GBP deposit and withdrawal options, mobile play.\n",
+  "seo_description": "Explore Nightluck Casino in the UK. Learn about our 5,000+ online slots, live dealer tables, fast GBP deposit and withdrawal options, mobile play.",
   "redirect_site": null,
   "hero_title": "Nightluck Casino Online",
   "hero_subtitle": "Welcome Bonus",
@@ -278,9 +278,10 @@
       "question": "Are my transactions in British Pounds at Nightluck Casino?"
     }
   ],
-  "_generated_at": "2026-09-08T13:17:21.189Z",
+  "_generated_at": "2026-09-08T13:21:58.133Z",
   "_version": "1.0.0",
+  "html_head_alt": "nightluck casino",
   "content_alt": "nightluck slot",
-  "_last_deploy": "2026-09-08T13:17:21.792Z",
-  "_deploy_trigger": "yqgk9l"
+  "_last_deploy": "2026-09-08T13:21:58.850Z",
+  "_deploy_trigger": "44n44h"
 }
