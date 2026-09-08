@@ -1,6 +1,6 @@
 {
   "name": "night-luck.org.uk",
-  "site_name": " Nightluck Casino – Games & Exclusive Bonuses",
+  "site_name": "Nightluck Casino – Games & Exclusive Bonuses",
   "html_head": "",
   "url": "night-luck.org.uk",
   "template": "tupchiy",
@@ -9,37 +9,82 @@
   "redirect_404s_to_homepage": false,
   "use_www_version": false,
   "breadcrumbs": false,
-  "content": null,
+  "content": "<p></p><h3></h3><p></p><p><br></p>",
   "pages": [],
-  "faq_schema": null,
-  "seo_description": " Explore Nightluck Casino in the UK. Learn about our 5,000+ online slots, live dealer tables, fast GBP deposit and withdrawal options, mobile play.\n",
+  "faq_schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is the minimum deposit required at Nightluck Casino?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The minimum deposit required to start playing at Nightluck Casino is £10 for most payment channels, including debit cards and e-wallets."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What welcome bonus does Nightluck Casino offer UK players?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "New UK players can claim a 200% first deposit match bonus up to £300, requiring a minimum qualifying deposit of just £10."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long do withdrawals take at Nightluck Casino?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "E-wallet and cryptocurrency withdrawals are typically processed within 24 hours, while debit cards and standard bank transfers take between 1 and 4 business days."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I need to download an app to play on mobile?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, our casino is built on browser-based HTML5 technology. You can simply visit our site via any web browser on your iOS or Android phone to play games."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Are my transactions in British Pounds at Nightluck Casino?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, Nightluck Casino fully supports GBP currency for deposits, withdrawals, and gameplay, ensuring UK players avoid currency conversion fees."
+        }
+      }
+    ]
+  },
+  "seo_description": "Explore Nightluck Casino in the UK. Learn about our 5,000+ online slots, live dealer tables, fast GBP deposit and withdrawal options, mobile play.\n",
   "redirect_site": null,
-  "hero_title": null,
-  "hero_subtitle": null,
-  "hero_badge": null,
-  "cta_text": null,
-  "tagline": null,
+  "hero_title": "Nightluck Casino Online",
+  "hero_subtitle": "Welcome Bonus",
+  "hero_badge": "Nightluck Casino – Get Exclusive Bonuses",
+  "cta_text": "Play Now",
+  "tagline": "805% up to £6,400 + 280 FS",
   "features_list": null,
-  "footer_text": null,
-  "popup_text": null,
-  "faq_title": null,
+  "footer_text": "© 2026. Nightluck Casino. All rights reserved",
+  "popup_text": "Bonus 805% up to £6,400 + 280 FS",
+  "faq_title": "FAQ",
   "login_text": "Login",
   "register_text": "Sign Up",
-  "slots_title": null,
-  "bonus_title": null,
-  "get_bonus_btn_text": null,
+  "slots_title": "Top Slots at Nightluck Casino",
+  "bonus_title": "Nightluck Casino – Welcome Package & Exclusive Bonuses",
+  "get_bonus_btn_text": "Get the Bonus",
   "redirect_link": "/play/",
   "home_name": "Nightluck Casino",
   "subdomains": null,
   "accent_color": "#d4af37",
-  "main_background": null,
-  "secondary_background": null,
-  "button_background": null,
-  "button_text_color": null,
-  "text_color": null,
-  "color_highlight_text": null,
-  "color_main_btn_text": null,
-  "cta_background": null,
+  "main_background": "#004526",
+  "secondary_background": "#042F1E",
+  "button_background": "#E5B576",
+  "button_text_color": "#121212",
+  "text_color": "#CCDBD5",
+  "color_highlight_text": "#CCDBD5",
+  "color_main_btn_text": "#121212",
+  "cta_background": "#E5B576",
   "logo": {
     "url": "/uploads/1fa60ebe863e66cad940b6e1b681b178.webp",
     "alt": "nightluck logo"
@@ -52,15 +97,189 @@
     "url": "/uploads/ee218a0fadcbc5b846036fd02e4c8424.webp",
     "alt": "nightluck baner"
   },
-  "header_menu": null,
-  "footer_menu": null,
-  "footer_images": null,
-  "Slots": null,
-  "Bonuses": null,
+  "header_menu": [
+    {
+      "link": "/play/",
+      "label": "Games",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Bonuses",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": " Sports",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": " App",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Payments",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_menu": [
+    {
+      "link": "/play/",
+      "label": "About us",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Contact",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Privacy Policy",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "General Terms & Conditions",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Bonus Terms & Conditions",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_images": [
+    {
+      "link": "/play/",
+      "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
+      "image_alt": "18+"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/767309a1bb8da0f68e987f277a6ebbf1.webp",
+      "image_alt": "bitcoin"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
+      "image_alt": "visa"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/657303d64f52b7d3416483142b9b416c.svg",
+      "image_alt": "skrill"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/d3d357852a0994aad4f4fb0220ca2058.svg",
+      "image_alt": "neteller"
+    }
+  ],
+  "Slots": [
+    {
+      "link": "/play/",
+      "logo": "/uploads/a20abb7d701a3081c75b5e213e7ea182.webp",
+      "name": "Threefold the Gold",
+      "Name": "Threefold the Gold",
+      "logo_alt": "threefold the gold"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/4bd0b666c75446646bd8b5e4588eedd0.webp",
+      "name": "Thai Blossoms",
+      "Name": "Thai Blossoms",
+      "logo_alt": "thai blossoms"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/337001b851219de5eb3f8fdcf8dd0b28.webp",
+      "name": "Serpent Gold",
+      "Name": "Serpent Gold",
+      "logo_alt": "serpent gold"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/f9d9fa6e6edaaaacfb32f7f172de5e41.webp",
+      "name": "Chaos Crew",
+      "Name": "Chaos Crew",
+      "logo_alt": "chaos crew"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/196b5b9d9619ba1a1c1d76d35442cddb.webp",
+      "name": "Crown of Secret",
+      "Name": "Crown of Secret",
+      "logo_alt": "crown of secret"
+    }
+  ],
+  "Bonuses": [
+    {
+      "link": "/play/",
+      "logo": "/uploads/84b8bb6efb01f9fe942a68455c4a62db.webp",
+      "name": "Welcome Bonus",
+      "Name": "Welcome Bonus",
+      "logo_alt": "Welcome Bonus"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/ac7e9cfbff64af271c1b585bbbb96a1d.webp",
+      "name": "Reload Bonus",
+      "Name": "Reload Bonus",
+      "logo_alt": "Reload Bonus"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/e8e32e9f5bba4b2b960098a8e5b37406.webp",
+      "name": "Cashback Bonus",
+      "Name": "Cashback Bonus",
+      "logo_alt": "Cashback Bonus"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/ecc8727428ea72bf8a936a083ccaebe8.webp",
+      "name": "Weekly Bonus",
+      "Name": "Weekly Bonus",
+      "logo_alt": "Weekly Bonus"
+    }
+  ],
   "Reviews": null,
-  "FAQ": null,
-  "_generated_at": "2026-09-08T08:53:34.569Z",
+  "FAQ": [
+    {
+      "answer": "The minimum deposit required to start playing at Nightluck Casino is £10 for most payment channels, including debit cards and e-wallets.",
+      "question": "What is the minimum deposit required at Nightluck Casino?"
+    },
+    {
+      "answer": "New UK players can claim a 200% first deposit match bonus up to £300, requiring a minimum qualifying deposit of just £10.",
+      "question": "What welcome bonus does Nightluck Casino offer UK players?"
+    },
+    {
+      "answer": "E-wallet and cryptocurrency withdrawals are typically processed within 24 hours, while debit cards and standard bank transfers take between 1 and 4 business days.",
+      "question": "How long do withdrawals take at Nightluck Casino?"
+    },
+    {
+      "answer": "No, our casino is built on browser-based HTML5 technology. You can simply visit our site via any web browser on your iOS or Android phone to play games.",
+      "question": "Do I need to download an app to play on mobile?"
+    },
+    {
+      "answer": "Yes, Nightluck Casino fully supports GBP currency for deposits, withdrawals, and gameplay, ensuring UK players avoid currency conversion fees.",
+      "question": "Are my transactions in British Pounds at Nightluck Casino?"
+    }
+  ],
+  "_generated_at": "2026-09-08T13:03:42.487Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-09-08T08:53:37.378Z",
-  "_deploy_trigger": "kjur3a"
+  "_last_deploy": "2026-09-08T13:03:43.238Z",
+  "_deploy_trigger": "jlqyki"
 }
