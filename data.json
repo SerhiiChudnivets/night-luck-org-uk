@@ -86,12 +86,12 @@
   "color_main_btn_text": "#121212",
   "cta_background": "#E5B576",
   "logo": {
-    "url": "/uploads/1fa60ebe863e66cad940b6e1b681b178.webp",
-    "alt": "nightluck logo"
+    "url": "/uploads/3b7e038efd6dde613fd81b4819eee6d6.svg",
+    "alt": "nightluck-logo"
   },
   "popup_logo": {
-    "url": "/uploads/1fa60ebe863e66cad940b6e1b681b178.webp",
-    "alt": "nightluck logo"
+    "url": "/uploads/3b7e038efd6dde613fd81b4819eee6d6.svg",
+    "alt": "nightluck-logo"
   },
   "main_background_img": {
     "url": "/uploads/9b465bac99428e1c04d1c2dfb71d8e47.webp",
@@ -278,10 +278,10 @@
       "question": "Are my transactions in British Pounds at Nightluck Casino?"
     }
   ],
-  "_generated_at": "2026-09-08T13:21:58.133Z",
+  "_generated_at": "2026-09-08T13:47:48.309Z",
   "_version": "1.0.0",
   "html_head_alt": "nightluck casino",
   "content_alt": "nightluck slot",
-  "_last_deploy": "2026-09-08T13:21:58.850Z",
-  "_deploy_trigger": "44n44h"
+  "_last_deploy": "2026-09-08T13:47:48.922Z",
+  "_deploy_trigger": "4qbjjc"
 }
