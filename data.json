@@ -75,29 +75,22 @@
         {
           "link": "/play/",
           "logo": "/uploads/84b8bb6efb01f9fe942a68455c4a62db.webp",
-          "name": "Welcome Bonus",
-          "Name": "Welcome Bonus",
+          "name": "Welcome Bonus 805% up to £6,400 + 280 FS",
+          "Name": "Welcome Bonus 805% up to £6,400 + 280 FS",
           "logo_alt": "Welcome Bonus"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/ac7e9cfbff64af271c1b585bbbb96a1d.webp",
-          "name": "Reload Bonus",
-          "Name": "Reload Bonus",
-          "logo_alt": "Reload Bonus"
-        },
-        {
-          "link": "/play/",
           "logo": "/uploads/e8e32e9f5bba4b2b960098a8e5b37406.webp",
-          "name": "Cashback Bonus",
-          "Name": "Cashback Bonus",
+          "name": "Cashback Bonus Up to 15% recurring on net losses",
+          "Name": "Cashback Bonus Up to 15% recurring on net losses",
           "logo_alt": "Cashback Bonus"
         },
         {
           "link": "/play/",
           "logo": "/uploads/ecc8727428ea72bf8a936a083ccaebe8.webp",
-          "name": "Weekly Bonus",
-          "Name": "Weekly Bonus",
+          "name": "Reload Bonus Up to 50% match",
+          "Name": "Reload Bonus Up to 50% match",
           "logo_alt": "Weekly Bonus"
         }
       ],
@@ -343,29 +336,22 @@
     {
       "link": "/play/",
       "logo": "/uploads/84b8bb6efb01f9fe942a68455c4a62db.webp",
-      "name": "Welcome Bonus",
-      "Name": "Welcome Bonus",
+      "name": "Welcome Bonus 805% up to £6,400 + 280 FS",
+      "Name": "Welcome Bonus 805% up to £6,400 + 280 FS",
       "logo_alt": "Welcome Bonus"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/ac7e9cfbff64af271c1b585bbbb96a1d.webp",
-      "name": "Reload Bonus",
-      "Name": "Reload Bonus",
-      "logo_alt": "Reload Bonus"
-    },
-    {
-      "link": "/play/",
       "logo": "/uploads/e8e32e9f5bba4b2b960098a8e5b37406.webp",
-      "name": "Cashback Bonus",
-      "Name": "Cashback Bonus",
+      "name": "Cashback Bonus Up to 15% recurring on net losses",
+      "Name": "Cashback Bonus Up to 15% recurring on net losses",
       "logo_alt": "Cashback Bonus"
     },
     {
       "link": "/play/",
       "logo": "/uploads/ecc8727428ea72bf8a936a083ccaebe8.webp",
-      "name": "Weekly Bonus",
-      "Name": "Weekly Bonus",
+      "name": "Reload Bonus Up to 50% match",
+      "Name": "Reload Bonus Up to 50% match",
       "logo_alt": "Weekly Bonus"
     }
   ],
@@ -392,10 +378,10 @@
       "question": "Are my transactions in British Pounds at Nightluck Casino?"
     }
   ],
-  "_generated_at": "2026-09-14T13:31:02.320Z",
+  "_generated_at": "2026-09-16T09:40:53.737Z",
   "_version": "1.0.0",
   "html_head_alt": "nightluck casino",
   "content_alt": "nightluck slot",
-  "_last_deploy": "2026-09-14T13:31:02.999Z",
-  "_deploy_trigger": "bf3f58"
+  "_last_deploy": "2026-09-16T09:40:54.366Z",
+  "_deploy_trigger": "i9i8mt"
 }
