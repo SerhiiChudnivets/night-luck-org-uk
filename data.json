@@ -22,7 +22,7 @@
       "gptPrompt": "",
       "heroTitle": "Nightluck Casino Online",
       "heroSubtitle": "Welcome Bonus",
-      "heroBadge": "Nightluck Casino – Get Exclusive Bonuses",
+      "heroBadge": "Nightluck Casino – Play in Exclusive Slots",
       "ctaText": "Play Now",
       "tagline": "805% up to £6,400 + 280 FS",
       "heroImage": "/uploads/9b465bac99428e1c04d1c2dfb71d8e47.webp",
@@ -109,7 +109,7 @@
       "seo_description": "Explore Nightluck Casino in the UK. Learn about our 5,000+ online slots, live dealer tables, fast GBP deposit and withdrawal options, mobile play.",
       "html_head": "<link rel=\"canonical\" href=\"https://night-luck.org.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://night-luck.org.uk/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://night-luck.org.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Nightluck Casino – Games & Exclusive Bonuses\">\n<meta property=\"og:description\" content=\"Explore Nightluck Casino in the UK. Learn about our 5,000+ online slots, live dealer tables, fast GBP deposit and withdrawal options, mobile play.\">\n<meta property=\"og:url\" content=\"night-luck.org.uk\">\n<meta property=\"og:site_name\" content=\"Nightluck Casino\">\n<meta property=\"og:image\" content=\"https://night-luck.org.uk//uploads/9b465bac99428e1c04d1c2dfb71d8e47.webp\">",
       "faq_title": "FAQ",
-      "hero_badge": "Nightluck Casino – Get Exclusive Bonuses",
+      "hero_badge": "Nightluck Casino – Play in Exclusive Slots",
       "cta_text": "Play Now",
       "content_alt": "nightluck slot",
       "htmlHead_alt": "nightluck casino",
@@ -170,7 +170,7 @@
   "redirect_site": null,
   "hero_title": "Nightluck Casino Online",
   "hero_subtitle": "Welcome Bonus",
-  "hero_badge": "Nightluck Casino – Get Exclusive Bonuses",
+  "hero_badge": "Nightluck Casino – Play in Exclusive Slots",
   "cta_text": "Play Now",
   "tagline": "805% up to £6,400 + 280 FS",
   "features_list": null,
@@ -380,10 +380,10 @@
       "question": "Are my transactions in British Pounds at Nightluck Casino?"
     }
   ],
-  "_generated_at": "2026-09-17T08:03:18.178Z",
+  "_generated_at": "2026-09-17T11:17:51.291Z",
   "_version": "1.0.0",
   "html_head_alt": "nightluck casino",
   "content_alt": "nightluck slot",
-  "_last_deploy": "2026-09-17T08:03:18.863Z",
-  "_deploy_trigger": "xqgzth"
+  "_last_deploy": "2026-09-17T11:17:52.115Z",
+  "_deploy_trigger": "8mhdgn"
 }
