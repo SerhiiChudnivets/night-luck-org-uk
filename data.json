@@ -5,7 +5,7 @@
   "url": "night-luck.org.uk",
   "template": "tupchiy",
   "language_code": "en",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": false,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -96,10 +96,12 @@
       ],
       "faq": [],
       "globalSlotSetId": null,
+      "globalReviewSetId": null,
       "websiteId": 149,
       "createdAt": {},
       "updatedAt": {},
       "globalSlotSet": null,
+      "globalReviewSet": null,
       "popup_text": "Bonus 805% up to £6,400 + 280 FS",
       "popup_logo": "/uploads/3b7e038efd6dde613fd81b4819eee6d6.svg",
       "hero_title": "Nightluck Casino Online",
@@ -380,10 +382,10 @@
       "question": "Are my transactions in British Pounds at Nightluck Casino?"
     }
   ],
-  "_generated_at": "2026-09-17T11:44:54.695Z",
+  "_generated_at": "2026-09-21T14:14:45.637Z",
   "_version": "1.0.0",
   "html_head_alt": "nightluck casino",
   "content_alt": "nightluck slot",
-  "_last_deploy": "2026-09-17T11:44:55.375Z",
-  "_deploy_trigger": "angejh"
+  "_last_deploy": "2026-09-21T14:14:46.216Z",
+  "_deploy_trigger": "3j587a"
 }
